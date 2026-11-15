@@ -1,0 +1,15 @@
+{
+  "app": "mock-code-workspace",
+  "title": "Code Workspace \u00b7 Fictional demo",
+  "port": 4308,
+  "allowedActions": [
+    "signin",
+    "identity",
+    "read",
+    "observation-status",
+    "edit-code",
+    "test-code",
+    "open-pr",
+    "reconcile"
+  ]
+}
