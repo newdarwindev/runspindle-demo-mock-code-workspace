@@ -1,0 +1,19 @@
+{
+  "id": "mock-code-workspace",
+  "name": "Forge Workspace",
+  "mark": "FW",
+  "tagline": "Shape the next working version.",
+  "colors": {
+    "background": "#211d2c",
+    "surface": "#30293e",
+    "text": "#f2eafb",
+    "accent": "#d3b3ff"
+  },
+  "typography": {
+    "display": "Consolas, monospace",
+    "body": "Courier New, monospace",
+    "tracking": ".025em"
+  },
+  "style": "workbench",
+  "radius": 8
+}
